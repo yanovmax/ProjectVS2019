@@ -1,0 +1,48 @@
+﻿@model RSS_Reader.Models.RSS.RssFeed
+
+@{
+    Layout = null;
+    var ver = 3;
+}
+
+<div>
+
+    <div class="post-feeds">
+        <div style="display: block; display: flex; justify-content: space-between; line-height: 7px; padding: 3px;">
+            <h1 style="">Rss Feeds</h1>
+            <input type="text" placeholder="search" style=" height: 24px; margin-top: 22px;" />
+        </div>
+
+        <div style="display:block">
+            <input type="range" min="0" max="100" step="1" value="50">
+        </div>
+
+        <hr />
+        @if (Model != null)
+        {
+            <h3>@Model.Title</h3>
+            @*@Model.Description*@
+            <ul>
+                @foreach (var item in Model.RssItems)
+                {
+                    <li class="post-feed">
+                        <div class="">
+                            <a href="@item.Link" target="_blank">
+                                <h3>@item.Title</h3>
+                                <div class="post-desc">
+
+                                    <img src="@item.Image" align="middle" width="150" height="150" class="post-img" />
+                                    <div>@item.Description</div>
+
+                                </div>
+                            </a>
+                        </div>
+                    </li>
+                }
+            </ul>
+        }
+    </div>
+</div>
+
+
+<link href="~/Resources/css/index.css?ver=@ver" rel="stylesheet" />

@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>NASA Image of the Day</title>
+    <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+    <link>http://www.nasa.gov/</link>
+    <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" />
+    <language>en-us</language>
+    <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+    <webMaster>brian.dunbar@nasa.gov</webMaster>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+    <item>
+      <title>Carrying a Telescope Aloft</title>
+      <link>http://www.nasa.gov/image-feature/carrying-a-telescope-aloft</link>
+      <description>Carried by a balloon the size of a football stadium, ASTHROS will use a telescope to observe wavelengths of light that aren&#039;t visible from the ground.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/high-altitude-balloon-1041.jpg" length="156032" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/carrying-a-telescope-aloft</guid>
+      <pubDate>Mon, 27 Jul 2020 03:51 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+
+    <item>
+      <title>Apollo 11 Aboard the USS Hornet</title>
+      <link>http://www.nasa.gov/image-feature/apollo-11-aboard-the-uss-hornet</link>
+      <description>This image, taken on July 24, 1969, shows the Apollo 11 command codule and the Mobile Quarantine Facility (MQF) are photographed aboard the USS Hornet</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s69-40758.jpg" length="1852149" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/apollo-11-aboard-the-uss-hornet</guid>
+      <pubDate>Fri, 24 Jul 2020 08:00 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Comet NEOWISE Streaks Across the Sky Above Lone Pine Lake</title>
+      <link>http://www.nasa.gov/image-feature/comet-neowise-streaks-across-the-sky-above-lone-pine-lake</link>
+      <description>Comet NEOWISE streaked across the sky above the tree line of Lone Pine Lake, located on the Mount Whitney Trail in the Eastern Sierra Nevada Mountains in California.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/afrc2020-0073-1.jpg" length="2389750" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/comet-neowise-streaks-across-the-sky-above-lone-pine-lake</guid>
+      <pubDate>Wed, 22 Jul 2020 16:39 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Developing Technologies to Send Humans to Mars</title>
+      <link>http://www.nasa.gov/image-feature/developing-technologies-to-send-humans-to-mars</link>
+      <description>NASA is developing technologies to send humans to the Red Planet.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/2-heat_shield.jpg" length="8995321" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/developing-technologies-to-send-humans-to-mars</guid>
+      <pubDate>Wed, 22 Jul 2020 08:19 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Apollo 11: Returning from the Moon</title>
+      <link>http://www.nasa.gov/image-feature/apollo-11-returning-from-the-moon</link>
+      <description>On July 21, 1969, command and service module pilot Michael Collins photographed this close-up view of the docking target on the Apollo 11 Lunar Module from the Command Module.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/as11-36-5365.jpg" length="3122647" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/apollo-11-returning-from-the-moon</guid>
+      <pubDate>Tue, 21 Jul 2020 09:02 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>We Came in Peace for All Mankind</title>
+      <link>http://www.nasa.gov/image-feature/we-came-in-peace-for-all-mankind</link>
+      <description>On July 20, 1969, two American astronauts made history by landing on the surface of another celestial body.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/as11-40-5899.jpg" length="3800813" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/we-came-in-peace-for-all-mankind</guid>
+      <pubDate>Mon, 20 Jul 2020 08:20 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>The Apollo-Soyuz Test Project: An Orbital Partnership Is Born</title>
+      <link>http://www.nasa.gov/multimedia/imagegallery/image_feature_2309.html</link>
+      <description>On July 17, 1975, something momentous happened: two Cold War rivals met in space. When their respective spacecraft rendezvoused and docked, a new era of cooperative ventures in space began.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/images/260346main_astp_hatch_full_full.jpg" length="636695" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/multimedia/imagegallery/image_feature_2309.html</guid>
+      <pubDate>Fri, 17 Jul 2020 04:39 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Apollo 11 Launches into History</title>
+      <link>http://www.nasa.gov/image-feature/apollo-11-launches-into-history</link>
+      <description>At 9:32 a.m. EDT on July 16, 1969, the Apollo 11 mission launched via a Saturn V rocket on a mission to the Moon.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/apollo_11_launch_-_gpn-2000-000630_1.jpg" length="7019648" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/apollo-11-launches-into-history</guid>
+      <pubDate>Thu, 16 Jul 2020 11:39 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Earth&#039;s Beauty from Above</title>
+      <link>http://www.nasa.gov/image-feature/earths-beauty-from-above</link>
+      <description>The crew snapped this starry nighttime shot of Rio de Janeiro and surrounding cities on the Brazilian coast, as the International Space Station orbited above São Paolo.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e039001.jpg" length="2480944" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/earths-beauty-from-above</guid>
+      <pubDate>Wed, 15 Jul 2020 09:36 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Perseverance Rover Mated to Its Atlas V Rocket</title>
+      <link>http://www.nasa.gov/image-feature/perseverance-rover-mated-to-its-atlas-v-rocket</link>
+      <description>In this image, NASA&#039;s Mars 2020 Perseverance rover waits to be lifted onto its Atlas V launch vehicle at the Cape Canaveral Air Force Station in Florida on July 7, 2020.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23984-16.jpg" length="498003" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/perseverance-rover-mated-to-its-atlas-v-rocket</guid>
+      <pubDate>Tue, 14 Jul 2020 10:19 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Hubble Sees a Star Called HBC 672 and the Bat Shadow</title>
+      <link>http://www.nasa.gov/image-feature/hubble-sees-a-star-called-hbc-672-and-the-bat-shadow</link>
+      <description>A young star&#039;s unseen, planet-forming disk casts a huge shadow across a more distant cloud in a star-forming region.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/50045549941_b8aa2c8417_o.png" length="4226081" type="image/png" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/hubble-sees-a-star-called-hbc-672-and-the-bat-shadow</guid>
+      <pubDate>Mon, 13 Jul 2020 08:37 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Creating Psyche: Mission to an Asteroid</title>
+      <link>http://www.nasa.gov/image-feature/creating-psyche-mission-to-an-asteroid</link>
+      <description>An electric Hall thruster, identical to those that will be used to propel NASA&#039;s Psyche spacecraft, undergoes testing at NASA&#039;s Jet Propulsion Laboratory.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23879-1041.jpg" length="166934" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/creating-psyche-mission-to-an-asteroid</guid>
+      <pubDate>Fri, 10 Jul 2020 05:38 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>STS-135: Shuttle&#039;s Final Launch and the Beginning of a New Era</title>
+      <link>http://www.nasa.gov/image-feature/sts-135-shuttles-final-launch-and-the-beginning-of-a-new-era</link>
+      <description>Space Shuttle Atlantis&#039; STS-135 mission launched from Launch Pad 39A at Kennedy Space Center on July 8, 2011 and was the last space shuttle mission.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/18708875244_52c82cd0ce_o.jpg" length="979941" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/sts-135-shuttles-final-launch-and-the-beginning-of-a-new-era</guid>
+      <pubDate>Thu, 09 Jul 2020 09:08 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Heat Shield Milestone Complete for First Orion Mission with Crew</title>
+      <link>http://www.nasa.gov/image-feature/heat-shield-milestone-complete-for-first-orion-mission-with-crew</link>
+      <description>Technicians at NASA’s Kennedy Space Center in Florida recently finished meticulously applying more than 180 blocks of ablative material to the heat shield for the Orion spacecraft.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ksc-20200702-ph-ilw01_0039.jpg" length="1495113" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/heat-shield-milestone-complete-for-first-orion-mission-with-crew</guid>
+      <pubDate>Wed, 08 Jul 2020 04:22 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Jupiter&#039;s Magnificent Swirling Clouds</title>
+      <link>http://www.nasa.gov/image-feature/jupiters-magnificent-swirling-clouds</link>
+      <description>A multitude of magnificent, swirling clouds in Jupiter&#039;s dynamic North North Temperate Belt is captured in this image from NASA&#039;s Juno spacecraft.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia22692_hires.jpg" length="270758" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/jupiters-magnificent-swirling-clouds</guid>
+      <pubDate>Tue, 07 Jul 2020 09:54 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Upgrading the Space Station Is All in a Day&#039;s Work</title>
+      <link>http://www.nasa.gov/image-feature/upgrading-the-space-station-is-all-in-a-days-work</link>
+      <description>NASA astronaut Robert Behnken works during the Wednesday, July 1, 2020, six-hour and one-minute spacewalk to swap an aging nickel-hydrogen battery for a new lithium-ion battery on the International Space Station&#039;s Starboard-6 truss structure.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e034203.jpg" length="2165125" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/upgrading-the-space-station-is-all-in-a-days-work</guid>
+      <pubDate>Mon, 06 Jul 2020 08:33 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>July 4, 1997: Sojourner Arrives on the Red Planet</title>
+      <link>http://www.nasa.gov/image-feature/july-4-1997-sojourner-arrives-on-the-red-planet</link>
+      <description>Hitching a ride on the Mars Pathfinder mission, the Sojourner rover arrived on Mars on July 4, 1997.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/pathfinder_full.jpg" length="867843" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/july-4-1997-sojourner-arrives-on-the-red-planet</guid>
+      <pubDate>Wed, 01 Jul 2020 15:30 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>A Day&#039;s Work: Robert Behnken Updates Power Systems on the Station</title>
+      <link>http://www.nasa.gov/image-feature/a-days-work-robert-behnken-updates-power-systems-on-the-station</link>
+      <description>On June 26, 2020, NASA astronauts Bob Behnken and Chris Cassidy conducted the first of two spacewalks to swap batteries and upgrade power systems on the International Space Station.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e033443.jpg" length="2644514" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/a-days-work-robert-behnken-updates-power-systems-on-the-station</guid>
+      <pubDate>Wed, 01 Jul 2020 09:02 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Deep Space 1 Spacecraft at 2.3 Million Miles from Earth</title>
+      <link>http://www.nasa.gov/image-feature/deep-space-1-spacecraft-at-23-million-miles-from-earth</link>
+      <description>June 30 is Asteroid Day.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/2166_ds1palomar_opt.jpg" length="614135" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/deep-space-1-spacecraft-at-23-million-miles-from-earth</guid>
+      <pubDate>Tue, 30 Jun 2020 08:53 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>An Astronaut&#039;s View of Work</title>
+      <link>http://www.nasa.gov/image-feature/an-astronauts-view-of-work</link>
+      <description>Spacewalkers Bob Behnken (left) and Chris Cassidy (right) in the Quest Airlock on June 26, 2020, before beginning a spacewalk to replace batteries on one of two power channels on the International Space Station.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ebir4gdxsaqaxnu.jpg" length="1798950" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/an-astronauts-view-of-work</guid>
+      <pubDate>Mon, 29 Jun 2020 09:16 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Hubble Captures Galaxy on Edge</title>
+      <link>http://www.nasa.gov/image-feature/goddard/2020/hubble-captures-galaxy-on-edge</link>
+      <description>We don’t see the beautiful spiral arms of galaxy NGC 5907 in this Hubble image because we are viewing it edge-on, like looking at the rim of a plate. It is for this reason that NGC 5907 is also known as the Knife Edge galaxy.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw2025a.jpg" length="669263" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2020/hubble-captures-galaxy-on-edge</guid>
+      <pubDate>Fri, 26 Jun 2020 08:13 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>The Space Station&#039;s Solar Transit</title>
+      <link>http://www.nasa.gov/image-feature/the-space-stations-solar-transit</link>
+      <description>This composite image, made from six frames, shows the International Space Station, with a crew of five onboard, in silhouette as it transits the Sun.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/50041214891_87bdab628c_o.jpg" length="5500202" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-space-stations-solar-transit</guid>
+      <pubDate>Thu, 25 Jun 2020 04:42 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>A Solar Eclipse Shadows Asia</title>
+      <link>http://www.nasa.gov/image-feature/a-solar-eclipse-shadows-asia</link>
+      <description>On June 21, 2020, as the International Space Station orbited over Kazakhstan and into China, an external high-definition camera captures this picture of the solar eclipse shadowing a portion of the Asian continent.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e031761.jpg" length="2206966" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/a-solar-eclipse-shadows-asia</guid>
+      <pubDate>Wed, 24 Jun 2020 08:58 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>NGC 7027: Like a Metallic Jewel Bug in the Sky</title>
+      <link>http://www.nasa.gov/image-feature/ngc-7027-like-a-metallic-jewel-bug-in-the-sky</link>
+      <description>In this image NGC 7027 resembles a jewel bug, an insect with a brilliantly colorful metallic shell.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/stsci-h-p2031d-f-1764x1249.png" length="2804900" type="image/png" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/ngc-7027-like-a-metallic-jewel-bug-in-the-sky</guid>
+      <pubDate>Tue, 23 Jun 2020 02:42 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Astronauts Chris Cassidy and Bob Behnken Work on U.S. Spacesuits</title>
+      <link>http://www.nasa.gov/image-feature/astronauts-chris-cassidy-and-bob-behnken-work-on-us-spacesuits</link>
+      <description>NASA astronauts (from top) Chris Cassidy and Bob Behnken work on U.S. spacesuits.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e030609.jpg" length="1881048" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/astronauts-chris-cassidy-and-bob-behnken-work-on-us-spacesuits</guid>
+      <pubDate>Mon, 22 Jun 2020 09:41 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Black Hole Bounty Captured in the Center of the Milky Way</title>
+      <link>http://www.nasa.gov/image-feature/black-hole-bounty-captured-in-the-center-of-the-milky-way</link>
+      <description>Astronomers have discovered evidence for thousands of black holes located near the center of our Milky Way galaxy using data from NASA&#039;s Chandra X-ray Observatory.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/sgra_swarm_lg.jpg" length="1094396" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/black-hole-bounty-captured-in-the-center-of-the-milky-way</guid>
+      <pubDate>Fri, 19 Jun 2020 11:29 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Preparing for Future Missions at the Armstrong Flight Research Center</title>
+      <link>http://www.nasa.gov/image-feature/preparing-for-future-missions-at-the-armstrong-flight-research-center</link>
+      <description>Pilots Troy Asher and Wayne Ringelberg walk out of NASA’s Armstrong Flight Research Center’s (AFRC) hangar in Palmdale, California, toward the flight line.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/afrc2020-0063-15_orig.jpg" length="7016078" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/preparing-for-future-missions-at-the-armstrong-flight-research-center</guid>
+      <pubDate>Wed, 17 Jun 2020 15:06 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Viewing the Red Planet</title>
+      <link>http://www.nasa.gov/image-feature/viewing-the-red-planet</link>
+      <description>This artist&#039;s concept shows an astronaut on Mars, as viewed through the window of a spacecraft.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23900.jpg" length="499168" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/viewing-the-red-planet</guid>
+      <pubDate>Wed, 17 Jun 2020 09:05 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Hubble Makes a Bright Find</title>
+      <link>http://www.nasa.gov/image-feature/goddard/2020/hubble-makes-a-bright-find</link>
+      <description>Seen here in incredible detail is the starburst galaxy formally known as PLCK G045.1+61.1. The galaxy, which appears as multiple reddish dots near the center of the image, is being gravitationally lensed by a cluster of closer galaxies, also seen in the image.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw2024a_0.jpg" length="598051" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2020/hubble-makes-a-bright-find</guid>
+      <pubDate>Tue, 16 Jun 2020 09:16 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Bringing Einstein&#039;s Concepts to Life Through Art</title>
+      <link>http://www.nasa.gov/image-feature/bringing-einsteins-concepts-to-life-through-art</link>
+      <description>Launched on April 20, 2004, Gravity Probe B (GP-B) was a collaboration between Stanford University and NASA designed to test two previously untested aspects of Albert Einstein’s general theory of relativity.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/gpb.jpg" length="761533" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/bringing-einsteins-concepts-to-life-through-art</guid>
+      <pubDate>Mon, 15 Jun 2020 09:35 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Hubble Glimpses a Galaxy Among Many</title>
+      <link>http://www.nasa.gov/image-feature/goddard/2020/hubble-glimpses-a-galaxy-among-many</link>
+      <description>Looking deep into the universe, the Hubble Space Telescope catches a passing glimpse of the numerous arm-like structures that sweep around this barred spiral galaxy, known as NGC 2608. Appearing as a slightly stretched, smaller version of our Milky Way, the peppered blue and red spiral arms are anchored together by the prominent horizontal</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw2023a.jpg" length="4005902" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2020/hubble-glimpses-a-galaxy-among-many</guid>
+      <pubDate>Fri, 12 Jun 2020 08:17 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Grand Finale: One of Cassini&#039;s Last Dives</title>
+      <link>http://www.nasa.gov/image-feature/grand-finale-one-of-cassinis-last-dives</link>
+      <description>This illustration imagines the view from NASA&#039;s Cassini spacecraft during one of its final dives between Saturn and its innermost rings.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia22768.jpg" length="340467" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/grand-finale-one-of-cassinis-last-dives</guid>
+      <pubDate>Thu, 11 Jun 2020 09:52 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>The Space In-between: Aurora Australis</title>
+      <link>http://www.nasa.gov/image-feature/the-space-in-between-aurora-australis</link>
+      <description>Like a wisp of green smoke, the  aurora australis seemingly intersects with the Earth&#039;s airglow as the International Space Station orbited above the Indian Ocean halfway between Australia and Antarctica.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e025120.jpg" length="4982255" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-space-in-between-aurora-australis</guid>
+      <pubDate>Wed, 10 Jun 2020 09:05 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Japan&#039;s HTV-9 Cargo Craft Helps Supply the Space Station</title>
+      <link>http://www.nasa.gov/image-feature/japans-htv-9-cargo-craft-helps-supply-the-space-station</link>
+      <description>Japan&#039;s resupply ship, the H-II Transfer Vehicle-9 (HTV-9), is pictured attached to the International Space Station&#039;s Harmony module.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e024519.jpg" length="2320603" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/japans-htv-9-cargo-craft-helps-supply-the-space-station</guid>
+      <pubDate>Tue, 09 Jun 2020 09:20 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>The Red Planet&#039;s Holden Crater</title>
+      <link>http://www.nasa.gov/image-feature/the-red-planets-holden-crater</link>
+      <description>Exquisite layering is revealed emerging from the sand in southern Holden Crater. Sequences like these offer a window into Mars&#039; complicated geologic history.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23952.jpg" length="898272" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-red-planets-holden-crater</guid>
+      <pubDate>Mon, 08 Jun 2020 09:26 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Hubble Catches Cosmic Snowflakes</title>
+      <link>http://www.nasa.gov/image-feature/goddard/2020/hubble-catches-cosmic-snowflakes</link>
+      <description>The stars of the globular cluster NGC 6441 sparkle peacefully in the night sky, about 13,000 light-years from the Milky Way’s galactic center.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw2022a.jpg" length="2499752" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2020/hubble-catches-cosmic-snowflakes</guid>
+      <pubDate>Fri, 05 Jun 2020 07:30 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Space Station Instrument Helps Researchers to Understand Lightning</title>
+      <link>http://www.nasa.gov/image-feature/space-station-instrument-helps-researchers-to-understand-lightning</link>
+      <description>Lightning flashes from a storm cloud to strike the ground. Such bolts represent only a small part of the overall phenomenon of lightning.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/3_iss057e055409.jpg" length="1268982" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/space-station-instrument-helps-researchers-to-understand-lightning</guid>
+      <pubDate>Thu, 04 Jun 2020 09:02 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Preparing the Perseverance Mars Rover to Collect Samples on the Red Planet</title>
+      <link>http://www.nasa.gov/image-feature/preparing-the-perseverance-mars-rover-to-collect-samples-on-the-red-planet</link>
+      <description>The samples Apollo 11 brought back to Earth from the Moon were humanity&#039;s first from another celestial body. The upcoming Perseverance rover mission will collect the first samples from another planet.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23919-1041.jpg" length="404855" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/preparing-the-perseverance-mars-rover-to-collect-samples-on-the-red-planet</guid>
+      <pubDate>Wed, 03 Jun 2020 09:17 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Ice Melt Accelerates Regional Freshwater Depletion</title>
+      <link>http://www.nasa.gov/image-feature/ice-melt-accelerates-regional-freshwater-depletion</link>
+      <description>A small glacier in the Arctic region of Norwegian archipelago Svalbard, as photographed by NASA&#039;s Airborne Tropical Tropopause Experiment (ATTREX).</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/svalbardglacier-16.jpg" length="282059" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/ice-melt-accelerates-regional-freshwater-depletion</guid>
+      <pubDate>Tue, 02 Jun 2020 09:14 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Demo-2: Launching Into History</title>
+      <link>http://www.nasa.gov/image-feature/demo-2-launching-into-history</link>
+      <description>On Saturday, May 30, 2020, a SpaceX Falcon 9 rocket carrying the company&#039;s Crew Dragon spacecraft is launched on NASA’s SpaceX Demo-2 mission to the International Space Station.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/49957474237_63b71f73c4_k_0.jpg" length="464878" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/demo-2-launching-into-history</guid>
+      <pubDate>Mon, 01 Jun 2020 08:59 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Demo-2 Launch: Setting Forth on a Historic Journey</title>
+      <link>http://www.nasa.gov/image-feature/demo-2-launch-setting-forth-on-a-historic-journey</link>
+      <description>A SpaceX Falcon 9 rocket carrying the company&#039;s Crew Dragon spacecraft is launched from Launch Complex 39A on NASA’s SpaceX Demo-2 mission to the International Space Station.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/49953827947_b8cf984521_k.jpg" length="564451" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/demo-2-launch-setting-forth-on-a-historic-journey</guid>
+      <pubDate>Sat, 30 May 2020 19:22 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Liftoff! Demo-2 Heads to the Space Station</title>
+      <link>http://www.nasa.gov/image-feature/liftoff-demo-2-heads-to-the-space-station</link>
+      <description>SpaceX Falcon 9 rocket lifted off carrying the company&#039;s Crew Dragon spacecraft on NASA’s SpaceX Demo-2 mission with NASA astronauts Robert Behnken and Douglas Hurley onboard, Saturday, May 30, 2020.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq202005300015.jpg" length="3224865" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/liftoff-demo-2-heads-to-the-space-station</guid>
+      <pubDate>Sat, 30 May 2020 15:58 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>SpaceX Demo-2: A New Era in Human Spaceflight</title>
+      <link>http://www.nasa.gov/image-feature/spacex-demo-2-a-new-era-in-human-spaceflight</link>
+      <description>A SpaceX Falcon 9 rocket with the company&#039;s Crew Dragon spacecraft onboard is seen illuminated on the launch pad at Launch Complex 39A as preparations continue for NASA’s SpaceX Demo-2 mission, Saturday, May 30, 2020.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/49951173438_f878865d38_k.jpg" length="345262" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-demo-2-a-new-era-in-human-spaceflight</guid>
+      <pubDate>Sat, 30 May 2020 09:12 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Hubble Sees Brilliant Tapestry of Stars</title>
+      <link>http://www.nasa.gov/image-feature/hubble-sees-brilliant-tapestry-of-stars</link>
+      <description>The brilliant tapestry of young stars flaring to life resembles a glittering fireworks display in this Hubble Space Telescope image.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/location-smaller.png" length="1380858" type="image/png" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/hubble-sees-brilliant-tapestry-of-stars</guid>
+      <pubDate>Fri, 29 May 2020 09:46 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Imagining Another Earth</title>
+      <link>http://www.nasa.gov/image-feature/imagining-another-earth</link>
+      <description>This artist&#039;s concept shows exoplanet Kepler-1649c orbiting around its host red dwarf star.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23689.jpg" length="563172" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/imagining-another-earth</guid>
+      <pubDate>Thu, 28 May 2020 10:27 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Sunrise from Launch Complex 39A</title>
+      <link>http://www.nasa.gov/image-feature/sunrise-from-launch-complex-39a</link>
+      <description>A SpaceX Falcon 9 rocket with the company&#039;s Crew Dragon spacecraft onboard is seen on the launch pad at Launch Complex 39A at sunrise as preparations continue for the Demo-2 mission, Wednesday, May 27, 2020.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq202005270001_0.jpg" length="4216984" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/sunrise-from-launch-complex-39a</guid>
+      <pubDate>Wed, 27 May 2020 08:05 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Leroy Chiao Makes a Bubble in Space</title>
+      <link>http://www.nasa.gov/image-feature/leroy-chiao-makes-a-bubble-in-space</link>
+      <description>In this iconic image, Staion Commander Leroy Chiao of NASA watches a water bubble float between him and the camera.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss010e13569.jpg" length="555450" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/leroy-chiao-makes-a-bubble-in-space</guid>
+      <pubDate>Tue, 26 May 2020 03:20 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>SpaceX Demo-2 Rollout</title>
+      <link>http://www.nasa.gov/image-feature/spacex-demo-2-rollout</link>
+      <description>A SpaceX Falcon 9 rocket with the company&#039;s Crew Dragon spacecraft onboard is seen as it is rolled out of the horizontal integration facility at Launch Complex 39A as preparations continue for the Demo-2 mission.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq202005210003.jpg" length="6417802" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-demo-2-rollout</guid>
+      <pubDate>Fri, 22 May 2020 08:50 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>SpaceX Demo-2 Crew Arrives at Kennedy Space Center</title>
+      <link>http://www.nasa.gov/image-feature/spacex-demo-2-crew-arrives-at-kennedy-space-center</link>
+      <description>NASA astronauts Robert Behnken, left, and Douglas Hurley listen as NASA Administrator Jim Bridenstine gives remarks after the crew arrived at the Launch and Landing Facility at Kennedy Space Center.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/49917936962_169a619522_k.jpg" length="409152" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-demo-2-crew-arrives-at-kennedy-space-center</guid>
+      <pubDate>Thu, 21 May 2020 09:01 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Annie and John Glenn Arrive for the Gemini IV Flight</title>
+      <link>http://www.nasa.gov/image-feature/annie-and-john-glenn-arrive-for-the-gemini-iv-flight</link>
+      <description>Annie and John Glenn arrive at the Mission Control Center for the Gemini IV launch on June 4, 1965. John Glenn was the first American to orbit the Earth.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s65-29442.jpg" length="4504195" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/annie-and-john-glenn-arrive-for-the-gemini-iv-flight</guid>
+      <pubDate>Wed, 20 May 2020 07:31 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Chemist Audrey Miyamoto Prepares Apollo 11 Sample for Analysis</title>
+      <link>http://www.nasa.gov/image-feature/chemist-audrey-miyamoto-prepares-apollo-11-sample-for-analysis</link>
+      <description>Chemist Audrey Miyamoto preparing an Apollo lunar sample to analyze for amino acids at NASA’s Ames Research Center.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/a-42500-12_2.jpg" length="1220729" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/chemist-audrey-miyamoto-prepares-apollo-11-sample-for-analysis</guid>
+      <pubDate>Tue, 19 May 2020 08:06 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Station Crew Sees Typhoon from Space</title>
+      <link>http://www.nasa.gov/image-feature/station-crew-sees-typhoon-from-space</link>
+      <description>The crew of the International Space Station snapped this image of this typhoon in the South Pacific Ocean on May 13, 2020.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e012660.jpg" length="4738406" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/station-crew-sees-typhoon-from-space</guid>
+      <pubDate>Mon, 18 May 2020 09:27 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Nancy Grace Roman: The Mother of Hubble</title>
+      <link>http://www.nasa.gov/image-feature/nancy-grace-roman-the-mother-of-hubble-2</link>
+      <description>Nancy Grace Roman (1925-2018), NASA&#039;s first chief astronomer, is known as the &#039;Mother of Hubble.&#039;</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/44477663304_a673c66226_o.jpg" length="197290" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/nancy-grace-roman-the-mother-of-hubble-2</guid>
+      <pubDate>Fri, 15 May 2020 09:48 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>High-Altitude Hazes on Jupiter</title>
+      <link>http://www.nasa.gov/image-feature/high-altitude-hazes-on-jupiter</link>
+      <description>NASA&#039;s Juno mission captured this look at Jupiter&#039;s tumultuous northern regions during the spacecraft&#039;s close approach to the planet on Feb. 17, 2020.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23802_0.jpg" length="482589" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/high-altitude-hazes-on-jupiter</guid>
+      <pubDate>Thu, 14 May 2020 09:21 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Cygnus Says Farewell to the Space Station</title>
+      <link>http://www.nasa.gov/image-feature/cygnus-says-farewell-to-the-space-station</link>
+      <description>Northrup Grumman&#039;s Cygnus resupply ship is pictured in the grips of the Canadarm2 robotic arm moments before its release ending its 83-day stay at the International Space Station on May 11, 2020.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss063e010616.jpg" length="2961824" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/cygnus-says-farewell-to-the-space-station</guid>
+      <pubDate>Wed, 13 May 2020 08:53 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Iowa Native and Astronaut Raja Chari</title>
+      <link>http://www.nasa.gov/image-feature/iowa-native-and-astronaut-raja-chari</link>
+      <description>Iowa native astronaut Raja Chari was selected by NASA to join the 2017 Astronaut Candidate Class.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/48430990887_1b1b7ed422_o.jpg" length="4298559" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/iowa-native-and-astronaut-raja-chari</guid>
+      <pubDate>Tue, 12 May 2020 03:26 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Abell 2384: Bending the Bridge Between Two Galaxy Clusters</title>
+      <link>http://www.nasa.gov/image-feature/abell-2384-bending-the-bridge-between-two-galaxy-clusters</link>
+      <description>Several hundred million years ago, two galaxy clusters collided and then passed through each other.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/a2384_lg.jpg" length="1629340" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/abell-2384-bending-the-bridge-between-two-galaxy-clusters</guid>
+      <pubDate>Mon, 11 May 2020 10:23 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Ricky Arnold: Teacher and Astronaut</title>
+      <link>http://www.nasa.gov/image-feature/ricky-arnold-teacher-and-astronaut</link>
+      <description>NASA astronaut Ricky Arnold takes an out of this world &quot;space-selfie&quot; while conducting a spacewalk on March 29, 2018.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss055e006284_0.jpg" length="2395972" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/ricky-arnold-teacher-and-astronaut</guid>
+      <pubDate>Fri, 08 May 2020 09:07 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Spring Has Sprung at NASA&#039;s Armstrong Flight Research Center</title>
+      <link>http://www.nasa.gov/image-feature/spring-has-sprung-at-nasas-armstrong-flight-research-center</link>
+      <description>Blooming roses at the Armstrong Flight Research Center highlighting the Bell X-IE aircraft.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/95798098_10217556926263413_8433257139979419648_o.jpg" length="230249" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/spring-has-sprung-at-nasas-armstrong-flight-research-center</guid>
+      <pubDate>Thu, 07 May 2020 04:50 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item>
+      <title>Life Detection Systems Branch Chief Vance Oyama Examines Apollo 11 Samples</title>
+      <link>http://www.nasa.gov/image-feature/life-detection-systems-branch-chief-vance-oyama-examines-apollo-11-samples</link>
+      <description>Life Detection Systems branch chief Vance Oyama operates a specially designed soil distribution system, used for dispersing the lunar soil in equal amounts to thousands of petri dishes.</description>
+      <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/a-42500-157.jpg" length="3253256" type="image/jpeg" />
+      <guid isPermaLink="false">http://www.nasa.gov/image-feature/life-detection-systems-branch-chief-vance-oyama-examines-apollo-11-samples</guid>
+      <pubDate>Wed, 06 May 2020 14:54 EDT</pubDate>
+      <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+  </channel>
+</rss>

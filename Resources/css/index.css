@@ -1,0 +1,59 @@
+﻿ul {
+    padding-inline-start: 0px;
+}
+
+.left-side {
+    float: left;
+    width: 20%;
+}
+
+.right-side {
+    float: right;
+    width: 80%;
+    height: 100%;
+}
+
+.iframe-posts-feeds {
+    width: 100%;
+    height: 100%
+}
+.open-modal {
+    text-decoration:none;
+}
+
+.new-feeds {
+    margin-left: 42px;
+}
+    .new-feeds ul li {
+        list-style: none;
+        padding-top: 10px;
+    }
+    .new-feeds ul li a{
+        text-decoration: none;
+    }
+
+
+/*post-feeds*/
+.post-feed {
+    position: relative;
+    display: inline-block;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    width: -webkit-fill-available;
+}
+    .post-feed div {
+        height: 150px;
+    }
+    .post-feed a {
+        color: midnightblue;
+        text-decoration: none !important;
+    }
+.post-img {
+    float: right;
+}
+
+.post-desc div{
+    width: 80%;
+}

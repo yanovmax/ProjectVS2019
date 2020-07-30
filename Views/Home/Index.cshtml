@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = null;
+    var ver = 4;
+}
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <main class="main">
+
+        <div class="left-side">
+            <h4>RSS Aggregator</h4>
+            <hr />
+
+            @Html.ActionLink("Favorites", "GetFavorites", "Home", null, new { target = "test1" })
+            <br />
+            <br />
+            <label>Feeds</label>
+            @*@Html.ActionLink("+", "GetFeed", "Home", null, new { target = "test1" })*@
+            <a href="#modal1" class="open-modal">[+]</a>
+
+            <div class="new-feeds">
+                <ul></ul>
+            </div>
+
+        </div>
+
+        <div class="right-side">
+            <iframe src="~/Resources/img/RSS_Feed_Screen3.png" name="test1" id="test1" class="iframe-posts-feeds">;</iframe>
+        </div>
+
+    </main>
+
+
+    @Html.Partial("Partials/_ModalAddFeed")
+
+    <div id="overlay"></div>
+
+    <link href="~/Resources/css/index.css?ver=@ver" rel="stylesheet" />
+    <link href="~/Resources/css/modal.css??ver=@ver" rel="stylesheet" />
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Resources/js/modal.js?ver=@ver"></script>
+    <script src="~/Resources/js/index.js?ver=@ver"></script>
+</body>
+</html>
+
+
+
+
